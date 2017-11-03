@@ -1,0 +1,1 @@
+url(^home/$, view.post, name='post')
